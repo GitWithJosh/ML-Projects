@@ -54,19 +54,22 @@ The datasets used are from the mnist data sets which are publicly available data
 You will need to install tensorflow, matplotlib, numpy and seaborn to run these projects yourself.
 
 To do that, run these lines of code:
+```
 pip install --upgrade
 pip install tensorflow
 pip install matplotlib
 pip install numpy
 pip install matplotlib
+```
 
 If this doesn't work for you, make sure to have python installed. Sometimes, you will need to run these commands with pip3 instead of pip just like that:
+```
 pip3 install --upgrade 
 pip3 install tensorflow
 pip3 install matplotlib
 pip3 install numpy
 pip3 install matplotlib
-
+```
 
 
 
