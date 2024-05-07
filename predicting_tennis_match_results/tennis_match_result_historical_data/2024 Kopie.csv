@@ -1,0 +1,240 @@
+ATP;Location;Tournament;Date;Series;Court;Surface;Round;Best of;Player 1;Player 2;WRank;LRank;WPts;LPts;Set 1 Player 1;Set 1 Player 2;Set 2 Player 1;L2;Set 3 Player 1;Set 3 Player 2;Set 4 Player 1;Set 4 Player 2;Set 5 Player 1;Set 5 Player 12;P1sets;P2sets
+1;Brisbane;Brisbane International;31.12.23;ATP250;Outdoor;Hard;1st Round;3;Popyrin A.;O Connell C.;40;68;1084;780;6;4;6;Set 2 Player 2;7;6;;;;;2;1
+1;Brisbane;Brisbane International;31.12.23;ATP250;Outdoor;Hard;1st Round;3;Shevchenko A.;Van Assche L.;48;90;947;687;6;3;6;2;;;;;;;2;0
+1;Brisbane;Brisbane International;01.01.24;ATP250;Outdoor;Hard;1st Round;3;Safiullin R.;Shelton B.;39;17;1122;2145;6;3;6;7;6;3;;;;;2;1
+1;Brisbane;Brisbane International;01.01.24;ATP250;Outdoor;Hard;1st Round;3;Rune H.;Purcell M.;8;45;3660;1012;4;6;6;4;6;2;;;;;2;1
+1;Brisbane;Brisbane International;01.01.24;ATP250;Outdoor;Hard;1st Round;3;Dimitrov G.;Murray A.;14;42;2570;1050;4;6;7;5;6;2;;;;;2;1
+1;Brisbane;Brisbane International;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Hanfmann Y.;Korda S.;51;24;914;1530;7;5;6;4;;;;;;;2;0
+1;Brisbane;Brisbane International;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Klein L.;Baez S.;170;28;359;1435;4;6;6;3;6;4;;;;;2;1
+1;Brisbane;Brisbane International;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Duckworth J.;Wolf J.J.;116;53;573;910;6;3;6;4;;;;;;;2;0
+1;Brisbane;Brisbane International;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Altmaier D.;Tu L.;56;225;891;280;7;6;7;6;;;;;;;2;0
+1;Brisbane;Brisbane International;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Machac T.;Etcheverry T.;78;30;722;1375;6;7;7;5;7;6;;;;;2;1
+1;Brisbane;Brisbane International;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Thompson J.;Vukic A.;55;62;902;835;6;3;6;2;;;;;;;2;0
+1;Brisbane;Brisbane International;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Arnaldi M.;Fucsovics M.;44;59;1021;882;6;7;6;4;7;6;;;;;2;1
+1;Brisbane;Brisbane International;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Nadal R.;Thiem D.;672;98;45;652;7;5;6;1;;;;;;;2;0
+1;Brisbane;Brisbane International;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Hijikata R.;Kokkinakis T.;71;65;744;802;7;6;6;2;;;;;;;2;0
+1;Brisbane;Brisbane International;03.01.24;ATP250;Outdoor;Hard;1st Round;3;Humbert U.;Michelsen A.;20;97;1765;653;6;4;6;4;;;;;;;2;0
+1;Brisbane;Brisbane International;03.01.24;ATP250;Outdoor;Hard;2nd Round;3;Duckworth J.;Hanfmann Y.;116;51;573;914;4;6;6;1;7;6;;;;;2;1
+1;Brisbane;Brisbane International;03.01.24;ATP250;Outdoor;Hard;2nd Round;3;Arnaldi M.;Klein L.;44;170;1021;359;6;4;3;6;7;5;;;;;2;1
+1;Brisbane;Brisbane International;03.01.24;ATP250;Outdoor;Hard;2nd Round;3;Safiullin R.;Popyrin A.;39;40;1122;1084;6;7;6;4;7;6;;;;;2;1
+1;Brisbane;Brisbane International;03.01.24;ATP250;Outdoor;Hard;2nd Round;3;Rune H.;Shevchenko A.;8;48;3660;947;6;4;5;7;6;2;;;;;2;1
+1;Brisbane;Brisbane International;04.01.24;ATP250;Outdoor;Hard;2nd Round;3;Hijikata R.;Machac T.;71;78;744;722;5;7;6;2;7;6;;;;;2;1
+1;Brisbane;Brisbane International;04.01.24;ATP250;Outdoor;Hard;2nd Round;3;Dimitrov G.;Altmaier D.;14;56;2570;891;6;1;6;2;;;;;;;2;0
+1;Brisbane;Brisbane International;04.01.24;ATP250;Outdoor;Hard;2nd Round;3;Nadal R.;Kubler J.;672;102;45;631;6;1;6;2;;;;;;;2;0
+1;Brisbane;Brisbane International;05.01.24;ATP250;Outdoor;Hard;Quarterfinals;3;Safiullin R.;Arnaldi M.;39;44;1122;1021;7;6;6;2;;;;;;;2;0
+1;Brisbane;Brisbane International;05.01.24;ATP250;Outdoor;Hard;Quarterfinals;3;Rune H.;Duckworth J.;8;116;3660;573;6;2;7;6;;;;;;;2;0
+1;Brisbane;Brisbane International;05.01.24;ATP250;Outdoor;Hard;Quarterfinals;3;Dimitrov G.;Hijikata R.;14;71;2570;744;6;1;6;4;;;;;;;2;0
+1;Brisbane;Brisbane International;05.01.24;ATP250;Outdoor;Hard;Quarterfinals;3;Thompson J.;Nadal R.;55;672;902;45;5;7;7;6;6;3;;;;;2;1
+1;Brisbane;Brisbane International;06.01.24;ATP250;Outdoor;Hard;Semifinals;3;Rune H.;Safiullin R.;8;39;3660;1122;6;4;7;6;;;;;;;2;0
+1;Brisbane;Brisbane International;06.01.24;ATP250;Outdoor;Hard;Semifinals;3;Dimitrov G.;Thompson J.;14;55;2570;902;6;3;7;5;;;;;;;2;0
+1;Brisbane;Brisbane International;07.01.24;ATP250;Outdoor;Hard;The Final;3;Dimitrov G.;Rune H.;14;8;2570;3660;7;6;6;4;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;01.01.24;ATP250;Outdoor;Hard;1st Round;3;Shang J.;Djere L.;183;33;335;1285;6;7;6;3;7;6;;;;;2;1
+2;Hong Kong;Hong Kong Tennis Open;01.01.24;ATP250;Outdoor;Hard;1st Round;3;Kotov P.;Borges N.;67;66;791;799;6;2;6;4;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;01.01.24;ATP250;Outdoor;Hard;1st Round;3;Ruusuvuori E.;Bonzi B.;69;73;771;738;6;7;6;2;6;1;;;;;2;1
+2;Hong Kong;Hong Kong Tennis Open;01.01.24;ATP250;Outdoor;Hard;1st Round;3;Van De Zandschulp B.;Mochizuki S.;50;137;930;457;7;5;6;1;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Kecmanovic M.;Daniel T.;54;75;905;737;6;3;6;2;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Broady L.;Cachin P.;108;70;608;763;6;4;6;0;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Ofner S.;Mcdonald M.;43;41;1048;1055;6;1;6;2;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Struff J.L.;Cilic M.;25;674;1522;45;3;6;7;6;7;6;;;;;2;1
+2;Hong Kong;Hong Kong Tennis Open;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Bautista Agut R.;Marozsan F.;57;64;886;805;6;2;6;3;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Huesler M.A.;Sachko V.;194;169;312;360;6;4;6;4;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Fils A.;Gojo B.;36;72;1158;744;6;3;4;6;6;1;;;;;2;1
+2;Hong Kong;Hong Kong Tennis Open;02.01.24;ATP250;Outdoor;Hard;1st Round;3;Musetti L.;Wong C.;27;253;1470;238;6;4;7;5;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;03.01.24;ATP250;Outdoor;Hard;2nd Round;3;Shang J.;Van De Zandschulp B.;183;50;335;930;6;7;7;6;7;6;;;;;2;1
+2;Hong Kong;Hong Kong Tennis Open;03.01.24;ATP250;Outdoor;Hard;2nd Round;3;Tiafoe F.;Kecmanovic M.;16;54;2310;905;6;3;7;6;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;03.01.24;ATP250;Outdoor;Hard;2nd Round;3;Ruusuvuori E.;Khachanov K.;69;15;771;2520;7;6;2;6;6;2;;;;;2;1
+2;Hong Kong;Hong Kong Tennis Open;03.01.24;ATP250;Outdoor;Hard;2nd Round;3;Kotov P.;Musetti L.;67;27;791;1470;6;4;6;3;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;04.01.24;ATP250;Outdoor;Hard;2nd Round;3;Ofner S.;Struff J.L.;43;25;1048;1522;6;7;7;6;7;6;;;;;2;1
+2;Hong Kong;Hong Kong Tennis Open;04.01.24;ATP250;Outdoor;Hard;2nd Round;3;Bautista Agut R.;Cerundolo F.;57;21;886;1760;7;5;6;3;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;04.01.24;ATP250;Outdoor;Hard;2nd Round;3;Fils A.;Huesler M.A.;36;194;1158;312;7;5;7;5;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;04.01.24;ATP250;Outdoor;Hard;2nd Round;3;Rublev A.;Broady L.;5;108;4805;608;6;4;7;6;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;05.01.24;ATP250;Outdoor;Hard;Quarterfinals;3;Ruusuvuori E.;Kotov P.;69;67;771;791;6;3;7;6;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;05.01.24;ATP250;Outdoor;Hard;Quarterfinals;3;Ofner S.;Bautista Agut R.;43;57;1048;886;6;4;6;4;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;05.01.24;ATP250;Outdoor;Hard;Quarterfinals;3;Shang J.;Tiafoe F.;183;16;335;2310;6;4;6;4;;;;;;;2;0
+2;Hong Kong;Hong Kong Tennis Open;05.01.24;ATP250;Outdoor;Hard;Quarterfinals;3;Rublev A.;Fils A.;5;36;4805;1158;6;4;1;6;6;2;;;;;2;1
+2;Hong Kong;Hong Kong Tennis Open;06.01.24;ATP250;Outdoor;Hard;Semifinals;3;Ruusuvuori E.;Ofner S.;69;43;771;1048;4;6;7;5;6;3;;;;;2;1
+2;Hong Kong;Hong Kong Tennis Open;06.01.24;ATP250;Outdoor;Hard;Semifinals;3;Rublev A.;Shang J.;5;183;4805;335;4;6;6;2;6;3;;;;;2;1
+2;Hong Kong;Hong Kong Tennis Open;07.01.24;ATP250;Outdoor;Hard;The Final;3;Rublev A.;Ruusuvuori E.;5;69;4805;771;6;4;6;4;;;;;;;2;0
+3;Adelaide;Adelaide International;08.01.24;ATP250;Outdoor;Hard;1st Round;3;Draper J.;Baez S.;62;26;836;1435;6;1;6;3;;;;;;;2;0
+3;Adelaide;Adelaide International;08.01.24;ATP250;Outdoor;Hard;1st Round;3;Shevchenko A.;Etcheverry T.;48;30;961;1375;7;6;4;6;7;5;;;;;2;1
+3;Adelaide;Adelaide International;08.01.24;ATP250;Outdoor;Hard;1st Round;3;Kecmanovic M.;Mcdonald M.;55;42;910;1055;6;4;6;2;;;;;;;2;0
+3;Adelaide;Adelaide International;08.01.24;ATP250;Outdoor;Hard;1st Round;3;Lajovic D.;Kokkinakis T.;52;68;914;792;3;6;6;1;6;4;;;;;2;1
+3;Adelaide;Adelaide International;08.01.24;ATP250;Outdoor;Hard;1st Round;3;Arnaldi M.;Zapata Miralles B.;41;77;1062;715;6;4;6;3;;;;;;;2;0
+3;Adelaide;Adelaide International;09.01.24;ATP250;Outdoor;Hard;1st Round;3;O Connell C.;Rinderknech A.;71;97;780;626;6;4;6;4;;;;;;;2;0
+3;Adelaide;Adelaide International;09.01.24;ATP250;Outdoor;Hard;1st Round;3;Bolt A.;Seyboth Wild T.;325;78;159;714;6;3;6;2;;;;;;;2;0
+3;Adelaide;Adelaide International;09.01.24;ATP250;Outdoor;Hard;1st Round;3;Thompson J.;Diaz Acosta F.;47;93;982;655;6;2;6;2;;;;;;;2;0
+3;Adelaide;Adelaide International;09.01.24;ATP250;Outdoor;Hard;1st Round;3;Sonego L.;Hanfmann Y.;46;49;990;929;7;5;2;6;7;6;;;;;2;1
+3;Adelaide;Adelaide International;09.01.24;ATP250;Outdoor;Hard;1st Round;3;Lehecka J.;Walton A.;32;176;1337;348;6;1;6;3;;;;;;;2;0
+3;Adelaide;Adelaide International;09.01.24;ATP250;Outdoor;Hard;1st Round;3;Bublik A.;Mccabe J.;31;278;1369;207;6;2;6;3;;;;;;;2;0
+3;Adelaide;Adelaide International;09.01.24;ATP250;Outdoor;Hard;1st Round;3;Evans D.;Hijikata R.;40;70;1096;782;6;3;6;4;;;;;;;2;0
+3;Adelaide;Adelaide International;10.01.24;ATP250;Outdoor;Hard;2nd Round;3;O Connell C.;Shevchenko A.;71;48;780;961;6;3;6;1;;;;;;;2;0
+3;Adelaide;Adelaide International;10.01.24;ATP250;Outdoor;Hard;2nd Round;3;Jarry N.;Arnaldi M.;18;41;1830;1062;6;7;7;6;6;4;;;;;2;1
+3;Adelaide;Adelaide International;10.01.24;ATP250;Outdoor;Hard;2nd Round;3;Draper J.;Kecmanovic M.;62;55;836;910;5;7;7;6;7;6;;;;;2;1
+3;Adelaide;Adelaide International;10.01.24;ATP250;Outdoor;Hard;2nd Round;3;Korda S.;Sonego L.;29;46;1380;990;6;4;7;6;;;;;;;2;0
+3;Adelaide;Adelaide International;10.01.24;ATP250;Outdoor;Hard;2nd Round;3;Paul T.;Bolt A.;14;325;2665;159;6;3;6;2;;;;;;;2;0
+3;Adelaide;Adelaide International;10.01.24;ATP250;Outdoor;Hard;2nd Round;3;Lehecka J.;Lajovic D.;32;52;1337;914;7;5;4;6;6;3;;;;;2;1
+3;Adelaide;Adelaide International;10.01.24;ATP250;Outdoor;Hard;2nd Round;3;Bublik A.;Evans D.;31;40;1369;1096;4;6;6;2;6;1;;;;;2;1
+3;Adelaide;Adelaide International;10.01.24;ATP250;Outdoor;Hard;2nd Round;3;Musetti L.;Thompson J.;25;47;1435;982;6;4;6;1;;;;;;;2;0
+3;Adelaide;Adelaide International;11.01.24;ATP250;Outdoor;Hard;Quarterfinals;3;Korda S.;O Connell C.;29;71;1380;780;6;4;6;4;;;;;;;2;0
+3;Adelaide;Adelaide International;11.01.24;ATP250;Outdoor;Hard;Quarterfinals;3;Lehecka J.;Jarry N.;32;18;1337;1830;6;4;7;5;;;;;;;2;0
+3;Adelaide;Adelaide International;11.01.24;ATP250;Outdoor;Hard;Quarterfinals;3;Bublik A.;Musetti L.;31;25;1369;1435;6;3;6;7;7;5;;;;;2;1
+3;Adelaide;Adelaide International;11.01.24;ATP250;Outdoor;Hard;Quarterfinals;3;Draper J.;Paul T.;62;14;836;2665;6;1;6;4;;;;;;;2;0
+3;Adelaide;Adelaide International;12.01.24;ATP250;Outdoor;Hard;Semifinals;3;Lehecka J.;Korda S.;32;29;1337;1380;6;2;6;1;;;;;;;2;0
+3;Adelaide;Adelaide International;12.01.24;ATP250;Outdoor;Hard;Semifinals;3;Draper J.;Bublik A.;62;31;836;1369;7;6;6;4;;;;;;;2;0
+3;Adelaide;Adelaide International;13.01.24;ATP250;Outdoor;Hard;The Final;3;Lehecka J.;Draper J.;32;62;1337;836;4;6;6;4;6;3;;;;;2;1
+4;Auckland;ASB Classic;07.01.24;ATP250;Outdoor;Hard;1st Round;3;Altmaier D.;Giron M.;57;60;906;860;7;6;6;2;;;;;;;2;0
+4;Auckland;ASB Classic;07.01.24;ATP250;Outdoor;Hard;1st Round;3;Daniel T.;Vukic A.;74;63;739;835;7;5;7;5;;;;;;;2;0
+4;Auckland;ASB Classic;08.01.24;ATP250;Outdoor;Hard;1st Round;3;Van Assche L.;Wolf J.J.;87;54;687;910;6;4;6;2;;;;;;;2;0
+4;Auckland;ASB Classic;08.01.24;ATP250;Outdoor;Hard;1st Round;3;Tabilo A.;Gojo B.;82;91;707;664;1;6;6;3;6;2;;;;;2;1
+4;Auckland;ASB Classic;08.01.24;ATP250;Outdoor;Hard;1st Round;3;Van De Zandschulp B.;Eubanks C.;59;34;865;1235;7;6;6;2;;;;;;;2;0
+4;Auckland;ASB Classic;08.01.24;ATP250;Outdoor;Hard;1st Round;3;Muller A.;Bonzi B.;79;110;711;588;6;3;7;5;;;;;;;2;0
+4;Auckland;ASB Classic;08.01.24;ATP250;Outdoor;Hard;1st Round;3;Borges N.;Michelsen A.;66;92;799;659;0;6;7;6;6;3;;;;;2;1
+4;Auckland;ASB Classic;08.01.24;ATP250;Outdoor;Hard;1st Round;3;Marozsan F.;Monfils G.;65;75;805;737;6;4;6;7;7;6;;;;;2;1
+4;Auckland;ASB Classic;08.01.24;ATP250;Outdoor;Hard;1st Round;3;Carballes Baena R.;Bautista Agut R.;67;51;796;916;6;4;6;3;;;;;;;2;0
+4;Auckland;ASB Classic;09.01.24;ATP250;Outdoor;Hard;1st Round;3;Ofner S.;Shapovalov D.;37;116;1132;560;6;4;6;2;;;;;;;2;0
+4;Auckland;ASB Classic;09.01.24;ATP250;Outdoor;Hard;1st Round;3;Purcell M.;Pannu K.;45;716;1006;37;6;4;6;4;;;;;;;2;0
+4;Auckland;ASB Classic;09.01.24;ATP250;Outdoor;Hard;1st Round;3;Fils A.;Gasquet R.;35;76;1208;735;6;3;6;4;;;;;;;2;0
+4;Auckland;ASB Classic;09.01.24;ATP250;Outdoor;Hard;2nd Round;3;Muller A.;Cerundolo F.;79;22;711;1760;6;1;6;1;;;;;;;2;0
+4;Auckland;ASB Classic;09.01.24;ATP250;Outdoor;Hard;2nd Round;3;Altmaier D.;Auger-Aliassime F.;57;27;906;1425;7;6;7;5;;;;;;;2;0
+4;Auckland;ASB Classic;10.01.24;ATP250;Outdoor;Hard;2nd Round;3;Daniel T.;Purcell M.;74;45;739;1006;6;2;6;4;;;;;;;2;0
+4;Auckland;ASB Classic;10.01.24;ATP250;Outdoor;Hard;2nd Round;3;Shelton B.;Marozsan F.;16;65;2145;805;6;3;6;4;;;;;;;2;0
+4;Auckland;ASB Classic;10.01.24;ATP250;Outdoor;Hard;2nd Round;3;Carballes Baena R.;Ofner S.;67;37;796;1132;7;5;6;3;;;;;;;2;0
+4;Auckland;ASB Classic;10.01.24;ATP250;Outdoor;Hard;2nd Round;3;Fils A.;Borges N.;35;66;1208;799;6;2;6;0;;;;;;;2;0
+4;Auckland;ASB Classic;10.01.24;ATP250;Outdoor;Hard;2nd Round;3;Tabilo A.;Van De Zandschulp B.;82;59;707;865;7;5;6;3;;;;;;;2;0
+4;Auckland;ASB Classic;10.01.24;ATP250;Outdoor;Hard;2nd Round;3;Norrie C.;Van Assche L.;19;87;1810;687;6;3;6;7;6;1;;;;;2;1
+4;Auckland;ASB Classic;10.01.24;ATP250;Outdoor;Hard;Quarterfinals;3;Daniel T.;Muller A.;74;79;739;711;6;4;6;7;6;3;;;;;2;1
+4;Auckland;ASB Classic;11.01.24;ATP250;Outdoor;Hard;Quarterfinals;3;Shelton B.;Carballes Baena R.;16;67;2145;796;6;4;6;3;;;;;;;2;0
+4;Auckland;ASB Classic;12.01.24;ATP250;Outdoor;Hard;Semifinals;3;Daniel T.;Shelton B.;74;16;739;2145;7;5;7;6;;;;;;;2;0
+4;Auckland;ASB Classic;12.01.24;ATP250;Outdoor;Hard;Semifinals;3;Tabilo A.;Fils A.;82;35;707;1208;6;2;7;5;;;;;;;2;0
+4;Auckland;ASB Classic;13.01.24;ATP250;Outdoor;Hard;The Final;3;Tabilo A.;Daniel T.;82;74;707;739;6;2;7;5;;;;;;;2;0
+5;Melbourne;Australian Open;14.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Arnaldi M.;Walton A.;41;174;1077;354;7;6;6;2;6;4;;;;;3;0
+5;Melbourne;Australian Open;14.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Munar J.;Shevchenko A.;82;48;706;975;6;3;6;3;6;1;;;;;3;0
+5;Melbourne;Australian Open;14.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Sinner J.;Van De Zandschulp B.;4;59;6490;890;6;4;7;5;6;3;;;;;3;0
+5;Melbourne;Australian Open;14.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Kotov P.;Rinderknech A.;65;94;835;629;7;5;6;1;6;7;6;7;6;3;3;2
+5;Melbourne;Australian Open;14.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Cerundolo F.;Sweeny D.;21;257;1760;228;3;6;6;3;6;4;2;6;6;2;3;2
+5;Melbourne;Australian Open;14.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Marozsan F.;Cilic M.;67;N/A;823;N/A;6;1;2;6;6;2;7;5;;;3;1
+5;Melbourne;Australian Open;14.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Rublev A.;Seyboth Wild T.;5;77;5010;718;7;5;6;4;3;6;4;6;7;6;3;2
+5;Melbourne;Australian Open;14.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Machac T.;Mochizuki S.;75;136;748;457;7;5;6;1;7;5;;;;;3;0
+5;Melbourne;Australian Open;14.01.24;Grand Slam;Outdoor;Hard;1st Round;5;O Connell C.;Garin C.;68;86;814;680;3;6;7;5;4;6;6;1;7;5;3;2
+5;Melbourne;Australian Open;14.01.24;Grand Slam;Outdoor;Hard;1st Round;5;De Jong J.;Cachin P.;161;74;393;763;4;6;6;2;6;3;6;4;;;3;1
+5;Melbourne;Australian Open;14.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Fritz T.;Diaz Acosta F.;12;90;2840;661;4;6;6;3;3;6;6;2;6;4;3;2
+5;Melbourne;Australian Open;14.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Galan D.E.;Kubler J.;87;113;676;561;2;6;6;3;7;6;4;6;7;6;3;2
+5;Melbourne;Australian Open;14.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Halys Q.;Harris L.;110;167;575;371;4;6;7;6;7;5;7;6;;;3;1
+5;Melbourne;Australian Open;14.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Djokovic N.;Prizmic D.;1;187;11055;321;6;2;6;7;6;3;6;4;;;3;1
+5;Melbourne;Australian Open;14.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Tiafoe F.;Coric B.;17;40;2100;1100;6;3;7;6;2;6;6;3;;;3;1
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Korda S.;Kopriva V.;26;132;1480;498;6;1;6;4;2;6;4;6;6;2;3;2
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Ruusuvuori E.;Kypson P.;53;183;921;330;4;6;6;3;6;4;7;6;;;3;1
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Musetti L.;Bonzi B.;28;106;1440;588;7;6;7;6;4;6;6;2;;;3;1
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Cobolli F.;Jarry N.;100;18;617;1870;6;4;3;6;6;3;2;6;7;5;3;2
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Gaston H.;Carballes Baena R.;97;63;626;846;6;3;6;2;3;6;6;4;;;3;1
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Shelton B.;Bautista Agut R.;16;72;2225;776;6;2;7;6;7;5;;;;;3;0
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Davidovich Fokina A.;Lestienne C.;24;99;1530;619;6;4;6;4;7;6;;;;;3;0
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Popyrin A.;Polmans M.;43;154;1052;406;6;3;7;6;6;2;;;;;3;0
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Mannarino A.;Wawrinka S.;19;56;1765;907;6;4;3;6;5;7;6;3;6;0;3;2
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Van Assche L.;Duckworth J.;79;95;715;628;6;7;6;3;3;6;6;3;6;3;3;2
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Tsitsipas S.;Bergs Z.;7;129;4025;508;5;7;6;1;6;1;6;3;;;3;1
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Mensik J.;Shapovalov D.;142;114;433;560;6;3;7;5;7;5;;;;;3;0
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Khachanov K.;Altmaier D.;15;50;2430;946;5;7;6;3;7;6;7;6;;;3;1
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Thompson J.;Vukic A.;47;64;982;835;3;6;7;6;6;2;3;6;6;4;3;2
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Kovacevic A.;Tabilo A.;101;49;611;970;6;7;7;6;1;6;6;1;6;3;3;2
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Zhang Zh.;Coria F.;54;84;911;694;6;4;7;6;7;6;;;;;3;0
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Eubanks C.;Daniel T.;35;58;1215;893;6;4;6;2;6;3;;;;;3;0
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Etcheverry T.;Murray A.;32;44;1375;1050;6;4;6;2;6;2;;;;;3;0
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Monfils G.;Hanfmann Y.;76;52;737;929;6;4;6;3;7;5;;;;;3;0
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Humbert U.;Goffin D.;20;112;1765;570;6;2;7;5;5;7;6;3;;;3;1
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Borges N.;Marterer M.;69;96;814;626;7;5;7;6;6;2;;;;;3;0
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Grenier H.;Muller A.;178;73;340;774;2;6;7;6;4;6;6;4;7;6;3;2
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Hurkacz H.;Jasika O.;9;343;3320;148;7;6;6;4;6;2;;;;;3;0
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Kecmanovic M.;Watanuki Y.;60;102;890;610;4;6;7;5;6;3;6;4;;;3;1
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Auger-Aliassime F.;Thiem D.;30;92;1425;654;6;3;7;5;6;7;5;7;6;3;3;2
+5;Melbourne;Australian Open;15.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Struff J.L.;Hijikata R.;25;71;1511;782;3;6;6;3;6;2;6;7;7;6;3;2
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Michelsen A.;Mccabe J.;91;269;656;214;7;6;3;6;6;1;6;2;;;3;1
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Lehecka J.;Zapata Miralles B.;23;78;1555;715;6;3;6;2;6;3;;;;;3;0
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Norrie C.;Varillas J. P.;22;81;1710;709;6;4;6;4;6;2;;;;;3;0
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Cazaux A.;Djere L.;122;33;529;1250;6;2;6;7;6;2;3;6;6;2;3;2
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Fils A.;Vesely J.;34;293;1233;188;4;6;7;5;6;2;6;3;;;3;1
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Griekspoor T.;Safiullin R.;31;36;1410;1190;2;6;3;6;7;6;6;4;7;5;3;2
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Zeppieri G.;Lajovic D.;133;51;487;939;6;3;3;6;6;3;7;6;;;3;1
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Ruud C.;Ramos-Vinolas A.;11;85;2910;688;6;1;6;3;6;1;;;;;3;0
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Dimitrov G.;Fucsovics M.;13;70;2775;782;4;6;6;3;7;6;6;2;;;3;1
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Purcell M.;Valkusz M.;45;214;1021;291;3;6;7;6;6;4;7;5;;;3;1
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Klein L.;Kwon S.W.;163;697;391;40;7;6;4;6;7;6;6;3;;;3;1
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Draper J.;Giron M.;55;66;911;825;6;4;3;6;4;6;6;0;6;2;3;2
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Rune H.;Nishioka Y.;8;61;3815;865;6;2;4;6;7;6;6;4;;;3;1
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Nagal S.;Bublik A.;137;27;450;1459;6;4;6;2;7;6;;;;;3;0
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Shang J.;Mcdonald M.;140;42;435;1055;6;3;1;6;3;6;6;4;6;2;3;2
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Paul T.;Barrere G.;14;83;2670;696;6;2;6;3;6;3;;;;;3;0
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Kokkinakis T.;Ofner S.;80;37;711;1141;7;6;2;6;6;7;6;1;7;6;3;2
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Sonego L.;Evans D.;46;38;1005;1121;4;6;7;6;6;2;7;6;;;3;1
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Zverev A.;Koepfer D.;6;62;4275;858;4;6;6;3;7;6;6;3;;;3;1
+5;Melbourne;Australian Open;16.01.24;Grand Slam;Outdoor;Hard;1st Round;5;Alcaraz C.;Gasquet R.;2;131;8855;500;7;6;6;1;6;2;;;;;3;0
+5;Melbourne;Australian Open;17.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Sinner J.;De Jong J.;4;161;6490;393;6;2;6;2;6;2;;;;;3;0
+5;Melbourne;Australian Open;17.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;De Minaur A.;Arnaldi M.;10;41;2950;1077;6;3;6;0;6;3;;;;;3;0
+5;Melbourne;Australian Open;17.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Baez S.;Galan D.E.;29;87;1435;676;7;5;2;6;6;2;6;4;;;3;1
+5;Melbourne;Australian Open;17.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Cobolli F.;Kotov P.;100;65;617;835;7;5;6;3;5;7;6;2;;;3;1
+5;Melbourne;Australian Open;17.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Van Assche L.;Musetti L.;79;28;715;1440;6;3;3;6;6;7;6;3;6;0;3;2
+5;Melbourne;Australian Open;17.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Khachanov K.;Kovacevic A.;15;101;2430;611;6;4;6;3;4;6;6;3;;;3;1
+5;Melbourne;Australian Open;17.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Fritz T.;Gaston H.;12;97;2840;626;6;0;6;3;6;1;;;;;3;0
+5;Melbourne;Australian Open;17.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Marozsan F.;Cerundolo F.;67;21;823;1760;7;6;6;4;6;2;;;;;3;0
+5;Melbourne;Australian Open;17.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Shelton B.;O Connell C.;16;68;2225;814;6;4;6;1;3;6;7;6;;;3;1
+5;Melbourne;Australian Open;17.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Mannarino A.;Munar J.;19;82;1765;706;6;3;6;3;1;6;2;6;6;3;3;2
+5;Melbourne;Australian Open;17.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Machac T.;Tiafoe F.;75;17;748;2100;6;4;6;4;7;6;;;;;3;0
+5;Melbourne;Australian Open;17.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Etcheverry T.;Monfils G.;32;76;1375;737;6;4;6;4;6;4;;;;;3;0
+5;Melbourne;Australian Open;17.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Tsitsipas S.;Thompson J.;7;47;4025;982;4;6;7;6;6;2;7;6;;;3;1
+5;Melbourne;Australian Open;17.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Korda S.;Halys Q.;26;110;1480;575;6;4;6;4;6;4;;;;;3;0
+5;Melbourne;Australian Open;17.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Rublev A.;Eubanks C.;5;35;5010;1215;6;4;6;4;6;4;;;;;3;0
+5;Melbourne;Australian Open;17.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Djokovic N.;Popyrin A.;1;43;11055;1052;6;3;4;6;7;6;6;3;;;3;1
+5;Melbourne;Australian Open;18.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Norrie C.;Zeppieri G.;22;133;1710;487;3;6;6;7;6;2;6;4;6;4;3;2
+5;Melbourne;Australian Open;18.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Michelsen A.;Lehecka J.;91;23;656;1555;4;6;6;3;6;4;6;4;;;3;1
+5;Melbourne;Australian Open;18.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Zverev A.;Klein L.;6;163;4275;391;7;5;3;6;4;6;7;6;7;6;3;2
+5;Melbourne;Australian Open;18.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Ruud C.;Purcell M.;11;45;2910;1021;6;3;6;7;6;3;3;6;7;6;3;2
+5;Melbourne;Australian Open;18.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Paul T.;Draper J.;14;55;2670;911;6;2;3;6;6;3;7;5;;;3;1
+5;Melbourne;Australian Open;18.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Kecmanovic M.;Struff J.L.;60;25;890;1511;6;4;1;6;7;6;1;6;7;6;3;2
+5;Melbourne;Australian Open;18.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Alcaraz C.;Sonego L.;2;46;8855;1005;6;4;6;7;6;3;7;6;;;3;1
+5;Melbourne;Australian Open;18.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Borges N.;Davidovich Fokina A.;69;24;814;1530;7;6;6;3;6;3;;;;;3;0
+5;Melbourne;Australian Open;18.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Shang J.;Nagal S.;140;137;435;450;2;6;6;3;7;5;6;4;;;3;1
+5;Melbourne;Australian Open;18.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Griekspoor T.;Fils A.;31;34;1410;1233;3;6;6;1;7;5;6;4;;;3;1
+5;Melbourne;Australian Open;18.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Humbert U.;Zhang Zh.;20;54;1765;911;6;2;5;7;6;1;7;6;;;3;1
+5;Melbourne;Australian Open;18.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Dimitrov G.;Kokkinakis T.;13;80;2775;711;6;3;6;2;4;6;6;4;;;3;1
+5;Melbourne;Australian Open;18.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Cazaux A.;Rune H.;122;8;529;3815;7;6;6;4;4;6;6;3;;;3;1
+5;Melbourne;Australian Open;18.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Auger-Aliassime F.;Grenier H.;30;178;1425;340;6;1;3;6;6;1;6;2;;;3;1
+5;Melbourne;Australian Open;18.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Hurkacz H.;Mensik J.;9;142;3320;433;6;7;6;1;5;7;6;1;6;3;3;2
+5;Melbourne;Australian Open;18.01.24;Grand Slam;Outdoor;Hard;2nd Round;5;Medvedev D.;Ruusuvuori E.;3;53;7555;921;3;6;6;7;6;4;7;6;6;0;3;2
+5;Melbourne;Australian Open;19.01.24;Grand Slam;Outdoor;Hard;3rd Round;5;Khachanov K.;Machac T.;15;75;2430;748;6;4;7;6;4;6;7;6;;;3;1
+5;Melbourne;Australian Open;19.01.24;Grand Slam;Outdoor;Hard;3rd Round;5;Sinner J.;Baez S.;4;29;6490;1435;6;0;6;1;6;3;;;;;3;0
+5;Melbourne;Australian Open;19.01.24;Grand Slam;Outdoor;Hard;3rd Round;5;Fritz T.;Marozsan F.;12;67;2840;823;3;6;6;4;6;2;6;2;;;3;1
+5;Melbourne;Australian Open;19.01.24;Grand Slam;Outdoor;Hard;3rd Round;5;Tsitsipas S.;Van Assche L.;7;79;4025;715;6;3;6;0;6;4;;;;;3;0
+5;Melbourne;Australian Open;19.01.24;Grand Slam;Outdoor;Hard;3rd Round;5;Mannarino A.;Shelton B.;19;16;1765;2225;7;6;1;6;6;7;6;3;6;4;3;2
+5;Melbourne;Australian Open;19.01.24;Grand Slam;Outdoor;Hard;3rd Round;5;Djokovic N.;Etcheverry T.;1;32;11055;1375;6;3;6;3;7;6;;;;;3;0
+5;Melbourne;Australian Open;19.01.24;Grand Slam;Outdoor;Hard;3rd Round;5;De Minaur A.;Cobolli F.;10;100;2950;617;6;3;6;3;6;1;;;;;3;0
+5;Melbourne;Australian Open;19.01.24;Grand Slam;Outdoor;Hard;3rd Round;5;Rublev A.;Korda S.;5;26;5010;1480;6;2;7;6;6;4;;;;;3;0
+5;Melbourne;Australian Open;20.01.24;Grand Slam;Outdoor;Hard;3rd Round;5;Kecmanovic M.;Paul T.;60;14;890;2670;6;4;3;6;2;6;7;6;6;0;3;2
+5;Melbourne;Australian Open;20.01.24;Grand Slam;Outdoor;Hard;3rd Round;5;Hurkacz H.;Humbert U.;9;20;3320;1765;3;6;6;1;7;6;6;3;;;3;1
+5;Melbourne;Australian Open;20.01.24;Grand Slam;Outdoor;Hard;3rd Round;5;Cazaux A.;Griekspoor T.;122;31;529;1410;6;3;6;3;6;1;;;;;3;0
+5;Melbourne;Australian Open;20.01.24;Grand Slam;Outdoor;Hard;3rd Round;5;Norrie C.;Ruud C.;22;11;1710;2910;6;4;6;7;6;4;6;3;;;3;1
+5;Melbourne;Australian Open;20.01.24;Grand Slam;Outdoor;Hard;3rd Round;5;Borges N.;Dimitrov G.;69;13;814;2775;6;7;6;4;6;2;7;6;;;3;1
+5;Melbourne;Australian Open;20.01.24;Grand Slam;Outdoor;Hard;3rd Round;5;Medvedev D.;Auger-Aliassime F.;3;30;7555;1425;6;3;6;4;6;3;;;;;3;0
+5;Melbourne;Australian Open;20.01.24;Grand Slam;Outdoor;Hard;3rd Round;5;Zverev A.;Michelsen A.;6;91;4275;656;6;2;7;6;6;2;;;;;3;0
+5;Melbourne;Australian Open;21.01.24;Grand Slam;Outdoor;Hard;4th Round;5;Djokovic N.;Mannarino A.;1;19;11055;1765;6;0;6;0;6;3;;;;;3;0
+5;Melbourne;Australian Open;21.01.24;Grand Slam;Outdoor;Hard;4th Round;5;Fritz T.;Tsitsipas S.;12;7;2840;4025;7;6;5;7;6;3;6;3;;;3;1
+5;Melbourne;Australian Open;21.01.24;Grand Slam;Outdoor;Hard;4th Round;5;Sinner J.;Khachanov K.;4;15;6490;2430;6;4;7;5;6;3;;;;;3;0
+5;Melbourne;Australian Open;21.01.24;Grand Slam;Outdoor;Hard;4th Round;5;Rublev A.;De Minaur A.;5;10;5010;2950;6;4;6;7;6;7;6;3;6;0;3;2
+5;Melbourne;Australian Open;22.01.24;Grand Slam;Outdoor;Hard;4th Round;5;Medvedev D.;Borges N.;3;69;7555;814;6;3;7;6;5;7;6;1;;;3;1
+5;Melbourne;Australian Open;22.01.24;Grand Slam;Outdoor;Hard;4th Round;5;Hurkacz H.;Cazaux A.;9;122;3320;529;7;6;7;6;6;4;;;;;3;0
+5;Melbourne;Australian Open;22.01.24;Grand Slam;Outdoor;Hard;4th Round;5;Zverev A.;Norrie C.;6;22;4275;1710;7;5;3;6;6;3;4;6;7;6;3;2
+5;Melbourne;Australian Open;22.01.24;Grand Slam;Outdoor;Hard;4th Round;5;Alcaraz C.;Kecmanovic M.;2;60;8855;890;6;4;6;4;6;0;;;;;3;0
+5;Melbourne;Australian Open;23.01.24;Grand Slam;Outdoor;Hard;Quarterfinals;5;Djokovic N.;Fritz T.;1;12;11055;2840;7;6;4;6;6;2;6;3;;;3;1
+5;Melbourne;Australian Open;23.01.24;Grand Slam;Outdoor;Hard;Quarterfinals;5;Sinner J.;Rublev A.;4;5;6490;5010;6;4;7;6;6;3;;;;;3;0
+5;Melbourne;Australian Open;24.01.24;Grand Slam;Outdoor;Hard;Quarterfinals;5;Medvedev D.;Hurkacz H.;3;9;7555;3320;7;6;2;6;6;3;5;7;6;4;3;2
+5;Melbourne;Australian Open;24.01.24;Grand Slam;Outdoor;Hard;Quarterfinals;5;Zverev A.;Alcaraz C.;6;2;4275;8855;6;1;6;3;6;7;6;4;;;3;1
+5;Melbourne;Australian Open;26.01.24;Grand Slam;Outdoor;Hard;Semifinals;5;Sinner J.;Djokovic N.;4;1;6490;11055;6;1;6;2;6;7;6;3;;;3;1
+5;Melbourne;Australian Open;26.01.24;Grand Slam;Outdoor;Hard;Semifinals;5;Medvedev D.;Zverev A.;3;6;7555;4275;5;7;3;6;7;6;7;6;6;3;3;2
+5;Melbourne;Australian Open;28.01.24;Grand Slam;Outdoor;Hard;The Final;5;Sinner J.;Medvedev D.;4;3;6490;7555;3;6;3;6;6;4;6;4;6;3;3;2
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
